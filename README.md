@@ -1,4 +1,4 @@
-# QtClientExam 项目记忆宫殿
+# QtClientExam 项目
 
 ## 一、项目概览
 
