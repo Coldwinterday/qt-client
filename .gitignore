@@ -1,0 +1,9 @@
+build/
+.vscode/
+bin/
+*.o
+*.obj
+.vs/
+*.user
+*.db
+*.opendb
